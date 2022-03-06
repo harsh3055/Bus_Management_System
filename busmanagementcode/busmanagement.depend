@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1605265287 source:d:\oopl lab\busmanagement\main.cpp
+	<conio.h>
+	<cstdio>
+	<iostream>
+	<string.h>
+	<cstdlib>
+
